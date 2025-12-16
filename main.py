@@ -1,3 +1,6 @@
+# Portions of this code were generated using
+# ChatGPT and GigaCode.
+
 import sys
 import time
 import subprocess
