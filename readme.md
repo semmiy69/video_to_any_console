@@ -31,7 +31,7 @@ Built with **Python**, **FFmpeg**, and **Pillow**.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/terminal-video-player.git
+git clone https://github.com/semmiy69/video_to_any_console.git
 cd terminal-video-player
 ```
 
