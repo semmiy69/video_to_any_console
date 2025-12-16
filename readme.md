@@ -3,7 +3,7 @@
 A command-line video player that renders video frames directly in the terminal using ANSI escape codes and 24-bit RGB colors.  
 Built with **Python**, **FFmpeg**, and **Pillow**.
 
-![Demo](demo.gif)
+https://github.com/user-attachments/assets/c9c1f909-2542-4fba-abd1-481bc3c771f6
 
 ---
 
